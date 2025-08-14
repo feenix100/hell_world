@@ -1,7 +1,6 @@
 "Hell" World in rust with chat gpt 5
 
 ![hell world](https://github.com/feenix100/hell_world/blob/main/hell%20world.png)
-<img src="https://github.com/feenix100/hell_world/blob/main/hell%20world.png" alt="Hell World Thumbnail" width="300">
 
 
 In this video, we’ll create a spooky twist on the classic “Hello World” — a “Hell World” desktop app — using Rust, Chat Gpt 5 and the eframe GUI crate. This is a Rust GUI tutorial for beginners that will guide you step-by-step through how to make a GUI app in Rust without leaving your comfort zone.
